@@ -85,5 +85,3 @@ class GFG {
 	
 	}
 }
-
-// This code is contributed by nitin mittal.
